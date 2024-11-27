@@ -1,5 +1,6 @@
 # Statistics-Projects
-Projects from QMUL 
+## Projects from QMUL 
+
 **Project 1:** Manipulate, review and plot results for ‘lower layer super output areas’ (LSOA) in the UK
 - Part 1: Bar Chart of the Age Profile
 - Part 2: Distribution of the Younger, Older and Median Ages in Each LSOA
