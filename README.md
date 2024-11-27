@@ -11,8 +11,8 @@
 - Carry out an exploratory analysis of data with both continuous and categorical variables
 - Use regression modelling to look at the effect of predictor variables on a target
 variable- bridge condition- and present which of the proposed variables has more influence on the current bridge condition.
-Objective: The report is to be submitted to a representative of the Texas Department of Transportation.
-She is a specialist in metal corrosion and the deterioration of concrete and wants to understand “what the data says” but also “how it has been processed”.
+
+Objective: The report is to be submitted to a representative of the Texas Department of Transportation. She is a specialist in metal corrosion and the deterioration of concrete and wants to understand “what the data says” but also “how it has been processed”.
 
 
 **Project 3:** Examine UK property price changes & de-bunk a false causality relationship
